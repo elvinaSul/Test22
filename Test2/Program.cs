@@ -21,6 +21,7 @@ namespace Test2
             Console.WriteLine("Local branch");
 
             Console.WriteLine("Branch1");
+            Console.WriteLine("Branch2");
         }
     }
 }
