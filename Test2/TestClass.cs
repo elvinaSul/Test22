@@ -10,7 +10,7 @@ namespace Test2
     {
         public void MethodNew()
         {
-            Console.WriteLine("Hello from New Class");
+            Console.WriteLine("Hello from New Class one more time");
         }
     }
 }
