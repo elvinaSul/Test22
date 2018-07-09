@@ -13,6 +13,8 @@ namespace Test2
             Console.WriteLine("Hello");
 
             Console.WriteLine("Hello 2");
+
+            Console.WriteLine("Hello 3");
         }
     }
 }
