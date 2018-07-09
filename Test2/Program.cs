@@ -19,6 +19,8 @@ namespace Test2
             Console.WriteLine("Feature branch 1");
 
             Console.WriteLine("Local branch");
+
+            Console.WriteLine("Branch 3");
         }
     }
 }
