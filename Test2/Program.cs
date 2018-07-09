@@ -22,6 +22,8 @@ namespace Test2
 
             Console.WriteLine("Branch1");
             Console.WriteLine("Branch2");
+
+            Console.WriteLine("Branch3");
         }
     }
 }
